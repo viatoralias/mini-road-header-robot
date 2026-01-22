@@ -43,8 +43,8 @@ Use the project in `firmware/platformio_project/`
 
 ## 📚 Documentation
 
-- **Full Report**: [report.pdf](report.pdf) - Complete project documentation
-- **Presentation**: [presentation.pdf](presentation.pdf) - Project overview slides
+- **Full Report**: [report.pdf](RoadHeader_Project_Benachou_Report.pdf) - Complete project documentation
+- **Presentation**: [presentation.pdf](Autonomous-Mini-Road-Header.pdf) - Project overview slides
 
 ## 🔧 Key Technical Aspects
 
