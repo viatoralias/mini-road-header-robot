@@ -52,5 +52,3 @@ Use the project in `firmware/platformio_project/`
 2. **State Estimation**: Kalman filter implementation for arm positioning
 3. **Power Management**: Separate power rails for motors and electronics
 4. **Communication**: I2C-based servo control via PCA9685
-
-## 📁 Repository Structure
